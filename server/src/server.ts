@@ -28,9 +28,10 @@ app.get('/games', async (resquest, response) => {
   return response.json(games);
 });
 
+
 app.post('/games/:id/ads', async (request, response) => {
   const gameId = request.params.id;
-  const body: any = request.body;
+  const body = request.body;
 
   const ad = await prisma.ad.create({
     data: {
@@ -42,7 +43,7 @@ app.post('/games/:id/ads', async (request, response) => {
       hourStart: convertHourStringToMinutes(body.hourStart),
       hourEnd: convertHourStringToMinutes(body.hourEnd),
       useVoiceChannel: body.useVoiceChannel,
-    }
+    },
   })
 
   return response.status(201).json(ad);
