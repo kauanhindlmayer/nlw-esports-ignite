@@ -1,11 +1,6 @@
 <h1 align="center">
     <img alt="NLW-eSports" title="" src="" width="250px" />
 </h1>
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
 
 ## Landing Page
   <img alt="Landing page" src="" width="100%">
@@ -31,11 +26,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma ORM](https://www.prisma.io//)
 - [Vite](https://vitejs.dev/)
 - [Expo](https://expo.dev/)
-
-## 💻 Projeto
-
-Next Level Week eSports
-
-## 🔖 Layout
-
-O layout você poderá acessar através [desse link](https://www.figma.com/file/Dyzy79bRaBq3PY7MyrZOlf/NLW-eSports-(Community)?node-id=0%3A1).
