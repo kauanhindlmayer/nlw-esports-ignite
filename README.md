@@ -1,19 +1,19 @@
 <h1 align="center">
-    <img alt="NLW-eSports" title="" src="" width="250px" />
+    <img alt="NLW-eSports" title="nlw-logo" src="./images/logo-nlw-esports.svg" width="250px" />
 </h1>
 
 ## Landing Page
-  <img alt="Landing page" src="" width="100%">
+  <img alt="Landing page" src="./images/landing-page.jpg" width="100%">
   
 ## Create Ad Screen
-  <img alt="Create ad screen" src="" width="100%">
+  <img alt="Create ad screen" src="./images/create-ad-screen.jpg" width="100%">
   
 ## Mobile
-  <img alt="Mobile" src="" width="100%">
+  <img alt="Mobile" src="./images/mobile-screens.jpg" width="100%">
 
-## :rocket: Tecnologias
+## :rocket: Tech Stack
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
