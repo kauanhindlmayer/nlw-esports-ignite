@@ -1,17 +1,8 @@
-<h1 align="center">
+<div align="center">
     <img alt="NLW-eSports" title="nlw-logo" src="./images/logo-nlw-esports.svg" width="250px" />
-</h1>
+</div>
 
-## Landing Page
-  <img alt="Landing page" src="./images/landing-page.jpg" width="100%">
-  
-## Create Ad Screen
-  <img alt="Create ad screen" src="./images/create-ad-screen.jpg" width="100%">
-  
-## Mobile
-  <img alt="Mobile" src="./images/mobile-screens.jpg" width="100%">
-
-## :rocket: Tech Stack
+## 🛠️ Tech Stack
 
 This project was developed with the following technologies:
 
@@ -26,3 +17,12 @@ This project was developed with the following technologies:
 - [Prisma ORM](https://www.prisma.io//)
 - [Vite](https://vitejs.dev/)
 - [Expo](https://expo.dev/)
+
+## Landing Page
+  <img alt="Landing page" src="./images/landing-page.jpg" width="100%">
+  
+## Ad Creation Screen
+  <img alt="Create ad screen" src="./images/create-ad-screen.jpg" width="100%">
+  
+## Mobile
+  <img alt="Mobile" src="./images/mobile-screens.jpg" width="100%">
